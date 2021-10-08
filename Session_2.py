@@ -1,5 +1,5 @@
 def funct(a, b):
-    return a + b + 2
+    return "Goodbye"
 
 def func2(a,b):
     return a * b
